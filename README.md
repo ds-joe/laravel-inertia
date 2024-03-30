@@ -11,7 +11,7 @@ a laravel^11 inertia react template, using inertia library for (SSD server side 
 ## Requirements Version
 * `composer` >= v2.7.2
 * `php` >= v8.2.12
-* `nodejs` >= v18.19.1
+* `nodejs` >= v20.12.0
 
 ## Installation
 
